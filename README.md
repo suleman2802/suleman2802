@@ -7,7 +7,7 @@
 
 - 📫 How to reach me *bhattisuleman2002@gmail.com*
 
-- 📄 Know about my experiences [Flutter NodeJs Java Dart](Flutter NodeJs Java Dart)
+- 📄 Know about my experiences Flutter NodeJs Java Dart
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
