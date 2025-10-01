@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suleman Ahmad</h1>
 <h3 align="center">A passionate Full Stack Mobile App developer</h3>
 
-- 🔭 I’m currently working on *Qsr (Quick Service Resturant) Application*
+- 🔭 I’m currently working on *POS (Point of Sale) Application*
 
 - 💬 Ask me about *Flutter & Node js*
 
