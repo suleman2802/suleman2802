@@ -14,7 +14,11 @@
     <a href="https://pk.linkedin.com/in/suleman-ahmad-3a965922b?trk=people-guest_people_search-card" target="blank"><img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="https://linkedin.com/in/ghulam-abbass-096464243" height="30" width="40" /></a>
+            alt="https://linkedin.com/in/suleman-ahmad-3a965922b" height="30" width="40" /></a>
+    <a href="https://suleman2802.github.io/portfolio/" target="blank"><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="https://suleman2802.github.io/portfolio/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
